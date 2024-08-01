@@ -1,1 +1,1 @@
-[Portfolio](https://radestojicic.vercel.app/) · [Work](https://radestojicic.vercel.app/work) · [About](https://radestojicic.vercel.app/#about) · [Contact](https://radestojicic.vercel.app/#contact) · [Instagram](https://www.instagram.com/radee_st/) 
+[Portfolio](https://radestojicic.com/) · [Work](https://www.radestojicic.com/work) · [About](https://radestojicic.com/#about) · [Contact](https://radestojicic.com/#contact) · [Instagram](https://www.instagram.com/radee_st/) 
